@@ -1,4 +1,4 @@
-# Practice 1 - Authentication System (React Login Form)
+# Authentication System (React Login Form)
 
 ##  Objective
 Build a simple **Login Form** in React using the **useState** hook to manage form data and basic validation.
